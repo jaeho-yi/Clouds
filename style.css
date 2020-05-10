@@ -16,6 +16,13 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
+.dome {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
 body {
   /*background-color: #DB7093;*/
   background-image: url(Untitled-1.jpg);
