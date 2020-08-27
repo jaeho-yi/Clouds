@@ -1,8 +1,27 @@
+html,body{
+  margin: 0; padding: 0;
+  width: 100%; height: 100%;
+}
+
 a, div {
   color:black;
   text-decoration: none;
   text-align: center;
   font-family: sans-serif;
+}
+.card {
+  width: 150px;
+
+}
+.info{ height: auto;
+  min-height: 100%;
+  padding-right: 300px;
+  text-align: right;
+  font-family: sans-serif;
+}
+.infotitle {
+  text-align: right;
+  font-size: 18px;
 }
 .center {
   width: 30%;
@@ -12,13 +31,16 @@ a, div {
   margin-right: auto;
   font-family: NotoSansKR-Black;
 }
-.dome {
+.dome {position: relative;
+  transform: translateY(-100%);
+  bottom: 30px;
   display: block;
   font-size: 12px;
+
 }
 body {
   /*background-color: #DB7093;*/
-  background-image: url(Untitled-1.jpg);
+  background-image: url(picture/Untitled-1.jpg);
   background-size: 235px;
 }
 span{
