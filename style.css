@@ -9,10 +9,6 @@ a, div {
   text-align: center;
   font-family: sans-serif;
 }
-.card {
-  width: 150px;
-
-}
 .info{ height: auto;
   min-height: 100%;
   padding-right: 300px;
