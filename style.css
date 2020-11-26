@@ -26,10 +26,22 @@ a, div {
   margin-left: auto;
   margin-right: auto;
   font-family: NotoSansKR-Black;
+
+}
+.center2 {
+  width: 35%;
+  padding-left: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: NotoSansKR-Black;
+}
+.center3 {
+  width: 20%;
+
 }
 .dome {position: relative;
   transform: translateY(-100%);
-  bottom: 30px;
   display: block;
   font-size: 12px;
 
@@ -53,4 +65,7 @@ h1 {
 @font-face {
   font-family: 'NotoSansKR-Black';
   src: url("NotoSansKR-Black.otf") format('truetype')
+}
+#canvas{
+    position: absolute;left: 50%;top:50%; transform:translate(-50%,-50%);
 }
