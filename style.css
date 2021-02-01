@@ -48,9 +48,9 @@ a, div {
 }
 body {
   /*background-color: #DB7093;*/
-  /*background-image: url(picture/Untitled-1.jpg);
-  background-size: 235px;*/
-  background-color: #347EBF;
+  background-image: url(picture/Untitled-1.jpg);
+  background-size: 235px;
+  /*background-color: #347EBF;*/
 }
 span{
   margin: 2px; padding: 1px;
