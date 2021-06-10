@@ -61,13 +61,11 @@ h1 {
   font-size:60px;
   border-bottom: 3px solid black;
   margin-bottom: 10px;
-  font-family: Vogue.ttf;
+  font-family: NotoSansKR-Black;
 }
 @font-face {
   font-family: 'NotoSansKR-Black';
   src: url("NotoSansKR-Black.otf") format('truetype')
-  font-family: 'Vogue';
-  src: url("Vogue.ttf") format('truetype')
 }
 #canvas{
     position: absolute;left: 50%;top:50%; transform:translate(-50%,-50%);
