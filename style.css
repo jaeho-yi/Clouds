@@ -25,17 +25,10 @@ a, div {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  font-family: NotoSansCJKkr-Medium;
+  font-family: NotoSansCJKkr-Bold;
 
 }
-.center2 {
-  width: 35%;
-  padding-left: 0;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: NotoSansKR-Black;
-}
+
 .center3 {
   width: 20%;
 
