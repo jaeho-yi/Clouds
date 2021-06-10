@@ -36,7 +36,12 @@ a, div {
   font-family: NotoSansKR-Black;
 }
 .center3 {
-  width: 20%;
+  width: 30%;
+  padding-left: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: NotoSansKR-Black;
 
 }
 .dome {position: relative;
