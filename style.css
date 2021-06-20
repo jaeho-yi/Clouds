@@ -35,13 +35,7 @@ a, div {
   margin-right: auto;
   font-family: NotoSansKR-Black;
 }
-.center3 {
-  width: 30%;
-  padding-left: 0;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: NotoSansKR-Black;
+.center3 {width: 15%;
 
 }
 .dome {position: relative;
